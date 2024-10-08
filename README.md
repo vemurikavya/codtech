@@ -2,6 +2,7 @@
 Name: Vemuri Kavya
 Company: CODTECH IT SOLUTIONS
 ID:CT12DS2165
+Domain: Web Development
 Duration: AUGUST 10th, 2024 to OCTOBER 10th, 2024
 
 Overview of the Project
